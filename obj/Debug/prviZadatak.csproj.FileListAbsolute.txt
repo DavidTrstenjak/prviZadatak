@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\bin\Debug\prviZadatak.exe.config
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\bin\Debug\prviZadatak.exe
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\bin\Debug\prviZadatak.pdb
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\obj\Debug\prviZadatak.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\obj\Debug\prviZadatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\obj\Debug\prviZadatak.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\obj\Debug\prviZadatak.exe
+C:\Users\ucenik\source\repos\prviZadatak\prviZadatak\obj\Debug\prviZadatak.pdb
